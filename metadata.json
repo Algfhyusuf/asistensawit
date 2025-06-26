@@ -1,0 +1,5 @@
+{
+  "name": "Asisten Kebun Sawit AI",
+  "description": "Sebuah chatbot AI yang didukung oleh Gemini untuk memberikan wawasan dan jawaban atas pertanyaan terkait pengelolaan perkebunan kelapa sawit, mulai dari penanaman, pemeliharaan, hingga panen.",
+  "requestFramePermissions": []
+}
